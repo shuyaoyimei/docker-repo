@@ -1,2 +1,2 @@
 FROM gcr.io/google_containers/defaultbackend:1.4
-MAINTAINER ifnoelse <ifnoelse@qq.com>
+MAINTAINER shuyaoyimei <shuyaoyimei@gmail.com>

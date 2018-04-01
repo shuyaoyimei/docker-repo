@@ -1,2 +1,2 @@
 FROM gcr.io/google_containers/pause-amd64:3.0
-MAINTAINER ifnoelse <ifnoelse@qq.com>
+MAINTAINER shuyaoyimei <shuyaoyimei@gmail.com>

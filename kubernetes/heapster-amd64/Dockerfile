@@ -1,2 +1,2 @@
 FROM gcr.io/google_containers/heapster-amd64:v1.5.2
-MAINTAINER ifnoelse <ifnoelse@qq.com>
+MAINTAINER shuyaoyimei <shuyaoyimei@gmail.com>
